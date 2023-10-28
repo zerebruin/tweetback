@@ -4,6 +4,6 @@ let data = {
 	homeUrl: "https://david-arndt.de/",
 };
 
-data.avatar = `/img/twitteravatar.jpg`;
+data.avatar = `img/twitteravatar.jpg`;
 
 module.exports = data;
